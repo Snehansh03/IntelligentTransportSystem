@@ -1,0 +1,7 @@
+name-
+vehicle no-
+last service day-
+cost-
+shop-
+purchased part-
+address-
